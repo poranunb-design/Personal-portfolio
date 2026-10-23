@@ -1,5 +1,11 @@
 # 🌐 Network Programmability
 
+## 👩‍💻 Author
+
+**จัดทำโดย:** นางสาวปรนันท บุสดีวงค์  
+**รหัสนักศึกษา:** 673380276-3  
+**รายวิชา:** Network Programmability
+
 Repository นี้จัดทำขึ้นเพื่อรวบรวมผลงานและแบบฝึกปฏิบัติในรายวิชา **Network Programmability** โดยครอบคลุมการนำเสนอ Capstone Project การจำลองเครือข่ายด้วย Cisco Packet Tracer และการทำ Challenge Labs เพื่อฝึกทักษะด้านการจัดการเครือข่ายและการกำหนดค่าอุปกรณ์เครือข่าย
 
 ## 📚 Capstone Projects
@@ -38,9 +44,4 @@ https://github.com/kojidesu01/Lab-Implement-CoPP
 - พัฒนาทักษะการกำหนดค่าและแก้ไขปัญหาเครือข่าย
 - เรียนรู้การประยุกต์ใช้แนวคิด Network Programmability ผ่านการลงมือปฏิบัติจริง
 
-## 👩‍💻 Author
 
-จัดทำเพื่อประกอบการศึกษาในรายวิชา **Network Programmability**
-
----
-*This repository contains coursework and capstone project materials for Network Programmability.*
