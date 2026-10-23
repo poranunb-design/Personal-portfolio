@@ -31,6 +31,53 @@ https://github.com/poranunb-design/Capstone-project-2
 🔗 **GitHub Repository:**  
 https://github.com/kojidesu01/Lab-Implement-CoPP
 
+## 📂 Project Structure
+
+```text
+Personal-portfolio/
+│
+├── Certificate/
+│   └── CCNA_Switching_Routing_and_Wireless_Essentials/
+│
+├── Lab for Internetworking/
+│   ├── Lab1/
+│   ├── Lab2/
+│   ├── Lab3/
+│   ├── Lab4/
+│   ├── LAB5-20261023T094631Z-1-001.zip
+│   ├── LAB6-20261023T095219Z-1-001.zip
+│   ├── LAB7-20261023T095222Z-1-001.zip
+│   ├── LAB8-20261023T095225Z-1-001.zip
+│   ├── LAB9-20261023T095228Z-1-001.zip
+│   ├── lab10-20261023T095229Z-1-001.zip
+│   ├── lab11-20261023T095302Z-1-001.zip
+│   ├── lab12-20261023T095304Z-1-001.zip
+│   ├── lab13-20261023T095308Z-1-001.zip
+│   ├── lab14-20261023T095310Z-1-001.zip
+│   ├── lab15-20261023T095313Z-1-001.zip
+│   ├── lab16-20261023T095314Z-1-001.zip
+│   ├── lab17-20261023T095316Z-1-001.zip
+│   └── lab18-20261023T095318Z-1-001.zip
+│
+└── README.md
+```
+
+## 📁 Repository Contents
+
+### 1. Certificate
+รวบรวมใบรับรองและเอกสารรับรองการผ่านการอบรมหรือการเรียนรู้ด้านเครือข่ายคอมพิวเตอร์ เช่น CCNA Switching, Routing, and Wireless Essentials
+
+### 2. Lab for Internetworking
+รวบรวมไฟล์และผลงานจากการทำแบบฝึกปฏิบัติในรายวิชา ประกอบด้วย Lab1–Lab18 โดยจัดเก็บทั้งในรูปแบบโฟลเดอร์และไฟล์ ZIP เพื่อให้ง่ายต่อการเข้าถึงและตรวจสอบผลงาน
+
+### 3. README.md
+ไฟล์แนะนำ Repository ซึ่งอธิบายวัตถุประสงค์ โครงสร้างโครงการ และรายละเอียดผลงานที่จัดเก็บไว้ภายใน
+
+## 🎯 Purpose
+
+Repository นี้จัดทำขึ้นเพื่อรวบรวมผลงานการเรียนรู้ แบบฝึกปฏิบัติ และใบรับรองที่เกี่ยวข้องกับระบบเครือข่ายคอมพิวเตอร์ เพื่อใช้เป็นแฟ้มสะสมผลงาน (Portfolio) สำหรับแสดงความรู้และทักษะที่ได้รับจากการศึกษาในรายวิชา
+
+
 ## 🛠️ Tools & Technologies
 
 - **Cisco Packet Tracer** — ใช้จำลองและทดสอบระบบเครือข่าย
